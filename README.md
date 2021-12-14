@@ -1,8 +1,8 @@
 # about-me
-name: Camilo Casanova<br>
+NAME: Camilo Casanova<br>
 DOB: 7/11/2006<br>
 I like playing videogames<br>
-fun fact: I dont share fun facts about myself<br>
+Fun Fact: I dont share fun facts about myself<br>
 
 Somebody once told me the world is gonna roll me<br>
 I ain't the sharpest tool in the shed<br>

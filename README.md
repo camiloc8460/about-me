@@ -1,6 +1,6 @@
 # about-me
 NAME: Camilo Casanova<br>
-DOB: 7/11/2006<br>
+DOB: 4/20/2006<br>
 I like playing videogames<br>
 Fun Fact: I dont share fun facts about myself<br>
 
@@ -55,4 +55,3 @@ And all that glitters is gold<br>
 Only shooting stars break the mold<br>
 And all that glitters is gold<br>
 Only shooting stars break the mold<br>
-

@@ -1,10 +1,10 @@
 # about-me
-NAME: Camilo Casanova<br>
-DOB: 4/20/2006<br>
-I like playing videogames<br>
-Fun Fact: I dont share fun facts about myself<br>
+## NAME: Camilo Casanova<br>
+## DOB: 4/20/2006<br>
+###I like playing videogames<br>
+###Fun Fact: I dont share fun facts about myself<br>
 
-Somebody once told me the world is gonna roll me<br>
+Somebody once **_told me the world is gonna roll_** me<br>
 I ain't the sharpest tool in the shed<br>
 She was looking kind of dumb with her finger and her thumb<br>
 In the shape of an "L" on her forehead<br>
@@ -51,7 +51,14 @@ You'll never know if you don't go (go!)<br>
 You'll never shine if you don't glow<br>
 Hey now, you're an all-star, get your game on, go play<br>
 Hey now, you're a rock star, get the show on, get paid<br>
-And all that glitters is gold<br>
+**And all that glitters is gold<br>
 Only shooting stars break the mold<br>
-And all that glitters is gold<br>
-Only shooting stars break the mold<br>
+And all that glitters is gold<br>  
+Only shooting stars break the mold<br>**
+
+* D
+ * E
+  * E
+   * Z
+
+[https://genius.com/Smash-mouth-all-star-lyrics](lyrics)
